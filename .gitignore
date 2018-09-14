@@ -1,3 +1,10 @@
+ticket_data/asu.xls
+ticket_data/byu.xls
+ticket_data/cu.xls
+ticket_data/data.xls
+ticket_data/osu.xls
+ticket_data/stanford.xls
+
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
